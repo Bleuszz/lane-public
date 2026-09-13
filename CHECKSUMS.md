@@ -1,3 +1,13 @@
+## Lane Desktop 0.3.4 - unsigned beta
+
+Asset: Lane-Setup-0.3.4.exe
+
+Bytes: 111390106
+
+SHA256: `117246a06d337a9e14adb4b118bce8172c5aa7a8b2909f5ed28a8eebb224a183`
+
+Source revision `8a9f4f0652e6831c072e9030e86dfaf3b99bb790`.
+
 ## Lane Desktop 0.3.3 — unsigned beta
 
 Asset: Lane-Setup-0.3.3.exe

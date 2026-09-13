@@ -1,6 +1,6 @@
 # Windows beta installation
 
-[Download Lane Desktop 0.3.3](https://github.com/Bleuszz/lane-public/releases/download/v0.3.3-rc.1/Lane-Setup-0.3.3.exe). Windows 10/11, x64. This is an unsigned beta, not a stable or fully physically verified release. Windows may display an unknown-publisher warning; inspect the source and checksum rather than bypassing unexpected security warnings.
+[Download Lane Desktop 0.3.4](https://github.com/Bleuszz/lane-public/releases/download/v0.3.4-rc.1/Lane-Setup-0.3.4.exe). Windows 10/11, x64. This is an unsigned beta, not a stable or fully physically verified release. Windows may display an unknown-publisher warning; inspect the source and checksum rather than bypassing unexpected security warnings.
 
 1. Download the installer linked above and compare SHA-256 with CHECKSUMS.md.
 2. Close Lane, install the beta, then open Lane.
@@ -15,4 +15,4 @@ Keep original product photos. Photos remain marketplace-hosted references. Full 
 
 macOS is planned next; Linux later. No builds for either exist yet.
 
-Windows 0.3.3 installer execution and app launch have been exercised on Windows; complete marketplace, upgrade and uninstall/reinstall acceptance is still pending. The local encrypted fixture survived a process restart.
+Windows 0.3.4 installer execution and app launch have been exercised on Windows; complete marketplace, upgrade and uninstall/reinstall acceptance is still pending. The local encrypted fixture survived a process restart.
