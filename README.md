@@ -1,19 +1,13 @@
-# Lane
+# Lane customer information
 
-A UK-first workspace for Vinted and eBay resellers.
+Lane is an independent UK-first reseller workspace with a Windows desktop beta. It is not affiliated with Vinted or eBay.
 
-Lane is in private Windows beta. Marketplace sign-in and listing discovery have been exercised in the owner pilot. Full Vinted item details remain incomplete; some discovered items have missing titles. Do not rely on automatic publishing, sold-item delisting or stock synchronization.
+[Website](https://lane-staging.onrender.com) · [Windows beta installation](INSTALLATION.md) · [Checksums](CHECKSUMS.md) · [Security](SECURITY.md)
 
-[Visit Lane](https://lane-staging.onrender.com) · [Help](https://lane-staging.onrender.com/help) · [Contact](https://lane-staging.onrender.com/contact)
+[Terms](TERMS.md) · [Privacy](PRIVACY.md) · [Payments](PAYMENT_TERMS.md) · [Refunds](REFUNDS.md) · [Data requests](DATA_REQUESTS.md)
 
-This repository contains customer information and release materials only. It does not contain Lane's application source code.
+Vinted full listing details remain incomplete. Public payments, AI and bulk automation are not enabled. The beta installer is unsigned and not fully physically verified.
 
-- [Installation and platforms](INSTALLATION.md)
-- [Data, privacy and account requests](DATA.md)
-- [Security and reporting](SECURITY.md)
-- [Release notes and limitations](CHANGELOG.md)
-- [Checksums](CHECKSUMS.md)
+Support: LaneListing@proton.me
 
-Paid checkout and automatic renewals are not available. Planned paid access is prepaid, manually renewed monthly. AI and scheduled marketplace automation are not available in this beta.
-
-© 2026 Lane. All rights reserved. No open-source licence is granted. Marketplace names belong to their respective owners. Lane is independent of Vinted and eBay.
+All rights reserved. This repository does not contain Lane application source or grant an open-source licence.
